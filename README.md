@@ -25,7 +25,7 @@ Step 1: Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/power-grid-ai.git
+git clone https://github.com/PRABIRBISHAL/power-grid-ai.git
 cd power-grid-ai
 Step 2: Set Up Virtual Environment
 bash
